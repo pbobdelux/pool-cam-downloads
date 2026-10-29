@@ -18,9 +18,18 @@
 
 ### First run
 
-1. The TV shows a QR code. Scan it with your phone's camera (or set it up from the Pool Cam iPad/iPhone app, which finds the TV by itself).
-2. Enter only your camera's **Camera Account** username and password. The TV finds the camera on your Wi-Fi by itself. For a Tapo camera, that login is made in the Tapo app: tap your camera → ⚙ Settings → Advanced Settings → Camera Account (it's not your Tapo app login).
-3. The TV tries the login on the camera right away and tells you exactly what to fix if something's off. Then it shows your table live, and your phone says **Connected ✓**. The TV remembers the camera, and finds it again by itself if its address changes.
+1. **In the Tapo app first** (one time):
+   - Tap your camera → ⚙ Settings → Advanced Settings → **Camera Account**, and make a username and password. This isn't your Tapo app login. When your phone offers to save it, say yes.
+   - Me → Tapo Lab (or Third-Party Services) → **Third-Party Compatibility: On**. Without it the camera won't share its video.
+2. The TV shows a QR code. Scan it with your phone's camera, or set it up from the Pool Cam iPad/iPhone app, which finds the TV by itself and offers your saved camera login with one tap.
+3. Enter only the Camera Account username and password. Your phone's password manager (Google or iCloud) can fill it in, and offers to save it once the camera accepts it. The TV finds the camera on your Wi-Fi by itself.
+4. The TV tries the login on the camera right away and tells you exactly what to fix if something's off. Then it shows your table live, and your phone says **Connected ✓**.
+
+After that the TV looks after itself:
+
+- If the camera reboots or the Wi-Fi drops, the picture comes back by itself.
+- If the camera gets a new address, the TV finds it. If it finds a camera with your login somewhere new, it asks **Is this your table?** before switching.
+- On Google TV the camera login is also backed up to your Google account, so reinstalling Pool Cam (or a new Google TV) picks it up without asking.
 
 ### Ball tracking (new)
 
