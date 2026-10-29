@@ -2,19 +2,31 @@
 
 ## Google TV / Android TV / Fire TV app (test build)
 
-**Download:** [PoolCam-TV.apk](https://github.com/pbobdelux/pool-cam-downloads/raw/main/PoolCam-TV.apk)
+**Download:** [poolcam.apk](https://github.com/pbobdelux/pool-cam-downloads/raw/main/poolcam.apk)
+
+- **Downloader code:** coming soon. Then you'll type a few digits in Downloader instead of the link.
+- **Until then, type this link** (all lowercase): `github.com/pbobdelux/pool-cam-downloads/raw/main/poolcam.apk`
+- `PoolCam-TV.apk` is the same file under its old name, so links you already have keep working.
+- [BUILD.txt](BUILD.txt) says exactly which build this is: the commit, the date, the APK's SHA-256 and the signing certificate's.
 
 ### Install on a Google TV (TCL, Sony, Hisense, Chromecast with Google TV)
 
 1. **Turn on developer mode:** Settings → System → About → click **Android TV OS build** 7 times.
 2. **Get Downloader:** install the free **Downloader** app from the Play Store. When it asks, allow it to install apps.
-3. **Install Pool Cam:** in Downloader, type the download link above. Pool Cam installs and appears on your home screen.
+3. **Install Pool Cam:** in Downloader, type the link above. Pool Cam installs and appears on your home screen.
+4. **If Play Protect stops it:** it warns about any app that isn't from the Play Store. Choose **More details → Install anyway** (some TVs say **Install without scanning**).
 
-### Install on a Fire TV (Fire TV Stick, Fire TV Cube, Fire TV Edition TVs)
+**Keep the TV awake for the whole night.** A Google TV turns its screen off after a while even when an app is open. Set Settings → System → Power & energy → Turn off display: **Never**. If your TV also has its own sleep timer or auto-standby, turn that off too.
+
+### Install on a Fire TV
+
+**Which Fire TVs work:** the ones on Fire OS 7 or Fire OS 8. Check under Settings → My Fire TV → About: the software version starts with Fire OS 7 or 8. That covers, for example, the Fire TV Stick (3rd gen), Fire TV Stick Lite, Fire TV Stick 4K Max, the 2023 Fire TV Stick 4K and 4K Max, Fire TV Cube (2nd and 3rd gen) and Fire TV Omni and 4-Series TVs.
+
+**Which don't:** older sticks on Fire OS 5 or 6, and Fire TVs on Vega OS (like the Fire TV Stick 4K Select), which can't install apps from outside Amazon's store.
 
 1. **Get Downloader:** search for **Downloader** on the Fire TV home screen and install it (free, by AFTVnews).
 2. **Allow it to install apps:** Settings → My Fire TV → Developer Options → Install unknown apps → **Downloader: On**. (No Developer Options? Settings → My Fire TV → About → click the device name 7 times.)
-3. **Install Pool Cam:** in Downloader, type the download link above. Pool Cam shows up under Your Apps & Channels.
+3. **Install Pool Cam:** in Downloader, type the link above. Pool Cam shows up under Your Apps & Channels.
 
 ### First run
 
@@ -43,6 +55,8 @@ The menu also has **Dots** (show the balls on screen) and **Track** (turn tracki
 
 ### No Pool Cam TV app? Use the iPad or iPhone app
 
-The Pool Cam app runs the whole show and puts it on any TV: **AirPlay** to Apple TV and most Samsung, LG, Vizio, Sony and Roku TVs (Screen Mirroring), **Cast** to a Chromecast or a TV with Chromecast built in, or an **HDMI adapter**. Get it on TestFlight.
+The Pool Cam app shows the camera, the score and the shot calls on any TV: **AirPlay** to Apple TV and most Samsung, LG, Vizio, Sony and Roku TVs (Screen Mirroring), **Cast** to a Chromecast or a TV with Chromecast built in (about 6 seconds behind), or an **HDMI adapter**. There's no sound on the TV yet. Get it on TestFlight.
 
-This is a test build, signed with a test key, so updates install over it. Store versions on Google Play and the Amazon Appstore come later.
+### About this build
+
+This is a test build, signed with a test key, so each new test build installs over the last one. Pool Cam will soon switch to its own private key. When it does, this page will say so, and you'll uninstall Pool Cam once, install the new one and type the camera login once more. After that, updates install over it again. Store versions on Google Play and the Amazon Appstore come later.
