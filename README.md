@@ -43,6 +43,15 @@ After that the TV looks after itself:
 - If the camera gets a new address, the TV finds it. If it finds a camera with your login somewhere new, it asks **Is this your table?** before switching.
 - On Google TV the camera login is also backed up to your Google account, so reinstalling Pool Cam (or a new Google TV) picks it up without asking.
 
+### New in this build (Nov 5)
+
+- **Tournament night, run from the TV remote.** The corner of the screen says what's next ("OK · START THE NIGHT", "OK · ADD A PLAYER", "OK · START MATCH 1"). Press OK to do it. Hold OK for about a second for the menu.
+- **The SIXPOCKET SPORTS show on screen.** The draw, the bracket, NOW CALLING, the champion and LAST CALL. When nothing's on, the showreel plays.
+- **WELCOME BACK.** If the TV restarts mid-night, the night picks up where it was, with the score.
+- **Phones and the iPad keep score,** add players' photos, and get the night's results to take home.
+- The booth's voices are still placeholder sounds in this build. The recorded voices come in a later build.
+- **For the quickest picture and calls:** keep the iPad plugged in with Pool Cam open, so it does the ball tracking. Also set the TV's picture mode to **Game**.
+
 ### Ball tracking (new)
 
 The TV now follows every ball itself, with no computer.
@@ -55,7 +64,7 @@ The menu also has **Dots** (show the balls on screen) and **Track** (turn tracki
 
 ### No Pool Cam TV app? Use the iPad or iPhone app
 
-The Pool Cam app shows the camera, the score and the shot calls on any TV: **AirPlay** to Apple TV and most Samsung, LG, Vizio, Sony and Roku TVs (Screen Mirroring), **Cast** to a Chromecast or a TV with Chromecast built in (about 6 seconds behind), or an **HDMI adapter**. There's no sound on the TV yet. Get it on TestFlight.
+The Pool Cam app shows the camera, the score and the shot calls on any TV: **AirPlay** to Apple TV and most Samsung, LG, Vizio, Sony and Roku TVs (Screen Mirroring), **Cast** to a Chromecast or a TV with Chromecast built in (a few seconds behind), or an **HDMI adapter**. Get it on TestFlight.
 
 ### About this build
 
