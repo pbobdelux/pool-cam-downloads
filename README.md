@@ -64,7 +64,7 @@ The menu also has **Dots** (show the balls on screen) and **Track** (turn tracki
 
 ### No Pool Cam TV app? Use the iPad or iPhone app
 
-The Pool Cam app shows the camera, the score and the shot calls on any TV: **AirPlay** to Apple TV and most Samsung, LG, Vizio, Sony and Roku TVs (Screen Mirroring), **Cast** to a Chromecast or a TV with Chromecast built in (a few seconds behind), or an **HDMI adapter**. Get it on TestFlight.
+The Pool Cam app shows the camera, the score and the shot calls on any TV: **AirPlay** to Apple TV and most Samsung, LG, Vizio, Sony and Roku TVs (Screen Mirroring), **Cast** to a Chromecast or a TV with Chromecast built in (a few seconds behind), or an **HDMI adapter**. There's no sound on the TV yet when casting. Get it on TestFlight.
 
 ### About this build
 
