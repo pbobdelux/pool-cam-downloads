@@ -50,7 +50,8 @@ After that the TV looks after itself:
 - **WELCOME BACK.** If the TV restarts mid-night, the night picks up where it was, with the score.
 - **Phones and the iPad keep score,** add players' photos, and get the night's results to take home.
 - The booth's voices are still placeholder sounds in this build. The recorded voices come in a later build.
-- **Quicker calls (0.5.0 build 388).** The TV now watches the table at a true 10 frames a second (it was 7.5), hands each frame to the ball tracking as soon as it arrives, and sends each pot straight to the night, so the calls come sooner after a ball drops.
+- **Quicker calls (0.5.0 build 456).** The TV now watches the table at a true 10 frames a second (it was 7.5), its ball tracking does about 40% less work a frame, and each pot goes straight to the night, so the calls come sooner after a ball drops.
+- **The camera's picture arrives.** "Find my table" no longer gives up while the camera's picture is still starting, and the camera login is saved before your phone says **Connected ✓**, so a restart keeps it.
 - **Game mode by itself.** Pool Cam asks the TV for its low-latency picture mode. Options › Details says **TV game mode: asked for**. If it says your TV doesn't have one, set the TV's picture mode to **Game** yourself.
 - **How far behind it is.** Options › Details shows how far behind live the tracking and the picture are.
 - **For the quickest picture and calls:** keep the iPad plugged in with Pool Cam open, so it does the ball tracking.
