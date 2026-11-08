@@ -44,7 +44,15 @@ After that the TV looks after itself:
 - If the camera gets a new address, the TV finds it. If it finds a camera with your login somewhere new, it asks **Is this your table?** before switching.
 - On Google TV the camera login is also backed up to your Google account, so reinstalling Pool Cam (or a new Google TV) picks it up without asking.
 
-### New in this build (Nov 5)
+### New in this build (0.5.0 build 471, Nov 7)
+
+- **The table locks on by itself.** Once the picture is up, the TV finds the 6 pockets: "Finding the table…", then blue rings close on the pockets and **TABLE LOCKED**. No button. It follows the table if the camera sways and finds it again if it's lost.
+- **Setup in clear steps** on the TV and the phone: connect your phone, sign in to the camera, find the camera, lock onto the table, ready. **Capital letters count** in the camera's username; if the first letter's case is off, Pool Cam tries it the other way and tells you.
+- **Back never traps you.** Every menu closes one step with Back, and leaving Pool Cam asks first.
+- **Adding a player is just a name.** The nickname is optional, under **Add a nickname**.
+- **Disconnect camera** is in Options › Camera, and **Camera's back ✓** shows when the picture returns after a drop.
+
+Earlier in this build:
 
 - **Tournament night, run from the TV remote.** The corner of the screen says what's next ("OK · START THE NIGHT", "OK · ADD A PLAYER", "OK · START MATCH 1"). Press OK to do it. Hold OK for about a second for the menu.
 - **The SIXPOCKET SPORTS show on screen.** The draw, the bracket, NOW CALLING, the champion and LAST CALL. When nothing's on, the showreel plays.
@@ -61,9 +69,9 @@ After that the TV looks after itself:
 
 The TV now follows every ball itself, with no computer.
 
-1. Press OK on the remote to open the menu, then choose **Find my table**.
-2. Pick your table's size and press **Find**. Keep the whole table in the picture, with nobody leaning over it.
-3. Check the yellow outline follows the inside edge of the cushions. Press **Looks right ✓**, or **Adjust** to move a corner with the arrow keys.
+1. Keep the whole table in the picture with the light on. The TV finds the 6 pockets by itself and shows **TABLE LOCKED**.
+2. To check it: hold OK for the menu, then **Options › My table**. The blue circles should sit on the pockets.
+3. If one doesn't, press **Adjust**: the arrows move a pocket, OK goes to the next, and it saves after the sixth.
 
 The menu also has **Dots** (show the balls on screen) and **Track** (turn tracking on or off). **Light** uses the camera's smaller stream if the TV is slow; the health line in the menu shows the frames per second. Tracking opens a second video connection to the camera. If your camera refuses it, the menu will say so.
 
