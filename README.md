@@ -5,7 +5,8 @@
 **Download:** [poolcam.apk](https://github.com/pbobdelux/pool-cam-downloads/raw/main/poolcam.apk)
 
 - **Downloader code:** coming soon. Then you'll type a few digits in Downloader instead of the link.
-- **Until then, type this link** (all lowercase): `github.com/pbobdelux/pool-cam-downloads/raw/main/poolcam.apk`
+- **Until then, type this link** (all lowercase): `raw.githubusercontent.com/pbobdelux/pool-cam-downloads/main/poolcam.apk`
+- If that ever fails, this one is the same file: `github.com/pbobdelux/pool-cam-downloads/raw/main/poolcam.apk`
 - `PoolCam-TV.apk` is the same file under its old name, so links you already have keep working.
 - [BUILD.txt](BUILD.txt) says exactly which build this is: the commit, the date, the APK's SHA-256 and the signing certificate's.
 
