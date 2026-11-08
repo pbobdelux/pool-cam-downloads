@@ -32,9 +32,10 @@
 
 1. **In the Tapo app first** (one time):
    - Tap your camera → ⚙ Settings → Advanced Settings → **Camera Account**, and make a username and password. This isn't your Tapo app login. When your phone offers to save it, say yes.
+   - **Capital letters count.** Check the username on that screen letter by letter: the Tapo app or your phone's keyboard often turns the first letter into a capital ("Preston" instead of "preston"). Type it in Pool Cam exactly as the Tapo app shows it.
    - Me → Tapo Lab (or Third-Party Services) → **Third-Party Compatibility: On**. Without it the camera won't share its video.
 2. The TV shows a QR code. Scan it with your phone's camera, or set it up from the Pool Cam iPad/iPhone app, which finds the TV by itself, asks for the 6-digit code on the TV's screen (so only someone in the room can set it up) and offers your saved camera login with one tap.
-3. Enter only the Camera Account username and password. Your phone's password manager (Google or iCloud) can fill it in, and offers to save it once the camera accepts it. The TV finds the camera on your Wi-Fi by itself.
+3. Enter only the Camera Account username and password, **with the same capital letters** as in the Tapo app. Your phone's password manager (Google or iCloud) can fill it in, and offers to save it once the camera accepts it. The TV finds the camera on your Wi-Fi by itself.
 4. The TV tries the login on the camera right away and tells you exactly what to fix if something's off. Then it shows your table live, and your phone says **Connected ✓**.
 
 After that the TV looks after itself:
