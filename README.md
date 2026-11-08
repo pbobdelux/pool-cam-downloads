@@ -44,8 +44,10 @@ After that the TV looks after itself:
 - If the camera gets a new address, the TV finds it. If it finds a camera with your login somewhere new, it asks **Is this your table?** before switching.
 - On Google TV the camera login is also backed up to your Google account, so reinstalling Pool Cam (or a new Google TV) picks it up without asking.
 
-### New in this build (0.5.0 build 471, Nov 7)
+### New in this build (0.5.0 build 474, Nov 8)
 
+- **The ball dots stay on the table.** They show only over the live picture, never over the show's own screens.
+- **A game keeps the table.** While a game you started from a phone or the iPad is on, the TV won't offer to start the night; starting one asks "End this game and start the night?" first.
 - **The table locks on by itself.** Once the picture is up, the TV finds the 6 pockets: "Finding the table…", then blue rings close on the pockets and **TABLE LOCKED**. No button. It follows the table if the camera sways and finds it again if it's lost.
 - **Setup in clear steps** on the TV and the phone: connect your phone, sign in to the camera, find the camera, lock onto the table, ready. **Capital letters count** in the camera's username; if the first letter's case is off, Pool Cam tries it the other way and tells you.
 - **Back never traps you.** Every menu closes one step with Back, and leaving Pool Cam asks first.
