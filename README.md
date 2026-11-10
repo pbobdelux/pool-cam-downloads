@@ -45,7 +45,14 @@ After that the TV looks after itself:
 - If the camera gets a new address, the TV finds it. If it finds a camera with your login somewhere new, it asks **Is this your table?** before switching.
 - On Google TV the camera login is also backed up to your Google account, so reinstalling Pool Cam (or a new Google TV) picks it up without asking.
 
-### New in this build (0.5.0 build 474, Nov 8)
+### New in this build (0.5.0 build 482, Nov 9)
+
+- **Real sound effects.** 83 of the show's 141 sounds are now the real ones (ball clacks, pockets, the crowd). The rest are still quiet placeholders.
+- **No more odd background noise.** A sound that isn't finished yet now plays as silence. **Options › Sound** has **On**, **Calls only** and **Off**.
+- **After you adjust the pockets, the TV goes back to the menu** and says **Table saved ✓**. It no longer jumps into tournament night.
+- The announcers' new voices are recorded but aren't in this build yet. They come in the next one.
+
+From build 474:
 
 - **The ball dots stay on the table.** They show only over the live picture, never over the show's own screens.
 - **A game keeps the table.** While a game you started from a phone or the iPad is on, the TV won't offer to start the night; starting one asks "End this game and start the night?" first.
