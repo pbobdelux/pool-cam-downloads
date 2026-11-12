@@ -45,12 +45,20 @@ After that the TV looks after itself:
 - If the camera gets a new address, the TV finds it. If it finds a camera with your login somewhere new, it asks **Is this your table?** before switching.
 - On Google TV the camera login is also backed up to your Google account, so reinstalling Pool Cam (or a new Google TV) picks it up without asking.
 
-### New in this build (0.5.0 build 482, Nov 9)
+### New in this build (0.5.0 build 498, Nov 12)
+
+- **Set up the game on your phone.** The TV no longer asks you to type anything. It shows **Set up tonight's game on your phone** with one big QR; a phone or iPad that's already connected is named there instead, with no QR. Games, tournaments and players are all set up on the phone or iPad.
+- **The announcers are in.** The recorded starter set: about 270 lines, the 100 most common names and 60 nicknames. These are first-pass voices, read plainly; the new cast, performed, comes in the next build.
+- **Live voice (optional).** With your ElevenLabs key, the announcers say players' names and scores live. On your phone: scan the TV's QR, then **Settings › Live voice › Enter the ElevenLabs key**. Turn it off or on at the TV under **Options › Broadcast**. Every live line is saved on the TV, so it is made once.
+- **Back always works.** Back on any show screen goes to the live table, and the screen says so. The menu has **End the night**, and an empty night ends by itself after 10 minutes.
+- **The table locks on a slow TV.** It used to need three matching looks inside 2 seconds, which a slow TV could miss for ever.
+- **The iPad keeps every pot** when the camera's picture arrives in bursts.
+
+From build 482:
 
 - **Real sound effects.** 83 of the show's 141 sounds are now the real ones (ball clacks, pockets, the crowd). The rest are still quiet placeholders.
 - **No more odd background noise.** A sound that isn't finished yet now plays as silence. **Options › Sound** has **On**, **Calls only** and **Off**.
 - **After you adjust the pockets, the TV goes back to the menu** and says **Table saved ✓**. It no longer jumps into tournament night.
-- The announcers' new voices are recorded but aren't in this build yet. They come in the next one.
 
 From build 474:
 
@@ -64,11 +72,9 @@ From build 474:
 
 Earlier in this build:
 
-- **Tournament night, run from the TV remote.** The corner of the screen says what's next ("OK · START THE NIGHT", "OK · ADD A PLAYER", "OK · START MATCH 1"). Press OK to do it. Hold OK for about a second for the menu.
 - **The SIXPOCKET SPORTS show on screen.** The draw, the bracket, NOW CALLING, the champion and LAST CALL. When nothing's on, the showreel plays.
 - **WELCOME BACK.** If the TV restarts mid-night, the night picks up where it was, with the score.
 - **Phones and the iPad keep score,** add players' photos, and get the night's results to take home.
-- The booth's voices are still placeholder sounds in this build. The recorded voices come in a later build.
 - **Quicker calls (0.5.0 build 456).** The TV now watches the table at a true 10 frames a second (it was 7.5), its ball tracking does about 40% less work a frame, and each pot goes straight to the night, so the calls come sooner after a ball drops.
 - **The camera's picture arrives.** "Find my table" no longer gives up while the camera's picture is still starting, and the camera login is saved before your phone says **Connected ✓**, so a restart keeps it.
 - **Game mode by itself.** Pool Cam asks the TV for its low-latency picture mode. Options › Details says **TV game mode: asked for**. If it says your TV doesn't have one, set the TV's picture mode to **Game** yourself.
