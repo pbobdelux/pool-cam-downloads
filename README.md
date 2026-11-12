@@ -45,11 +45,23 @@ After that the TV looks after itself:
 - If the camera gets a new address, the TV finds it. If it finds a camera with your login somewhere new, it asks **Is this your table?** before switching.
 - On Google TV the camera login is also backed up to your Google account, so reinstalling Pool Cam (or a new Google TV) picks it up without asking.
 
-### New in this build (0.5.0 build 498, Nov 12)
+### New in this build (0.5.0 build 513, Nov 12)
+
+- **The new cast, performed.** The announcers' lines are recorded again with the new voices and with feeling: the hush before a big shot, the build, the shout.
+- **A wrong score is never read out.** A recorded line that needs a number is skipped unless the right number can be said. With live voice on, it is said live.
+- **Lines with a player's name play.** They were silent before.
+- **The winning call isn't cut off,** and the referee's quick calls are his recorded ones.
+- **Scan to play, always.** The TV's idle screen always has the big code, and scanning it goes straight into the game with nothing to type.
+- **The camera setup screen shows no address and no typing.** Both are behind **Can't scan?**.
+- **Quit a tournament while a match is on,** from the phone or the TV's menu, with a confirm.
+- **Only the owner changes the live voice key.** Enter it from the Pool Cam iPad or iPhone app, or from the phone that set up the camera. A guest's phone never sees it.
+- Still to come: the music (every music cue is still a quiet placeholder) and 58 of the 141 sound effects.
+
+From build 498:
 
 - **Set up the game on your phone.** The TV no longer asks you to type anything. It shows **Set up tonight's game on your phone** with one big QR; a phone or iPad that's already connected is named there instead, with no QR. Games, tournaments and players are all set up on the phone or iPad.
-- **The announcers are in.** The recorded starter set: about 270 lines, the 100 most common names and 60 nicknames. These are first-pass voices, read plainly; the new cast, performed, comes in the next build.
-- **Live voice (optional).** With your ElevenLabs key, the announcers say players' names and scores live. On your phone: scan the TV's QR, then **Settings › Live voice › Enter the ElevenLabs key**. Turn it off or on at the TV under **Options › Broadcast**. Every live line is saved on the TV, so it is made once.
+- **The announcers are in.** The recorded starter set: about 270 lines, the 100 most common names and 60 nicknames.
+- **Live voice (optional).** With your ElevenLabs key, the announcers say players' names and scores live. In **Settings › Live voice › Enter the ElevenLabs key** (see above for who can). Turn it off or on at the TV under **Options › Broadcast**. Every live line is saved on the TV, so it is made once.
 - **Back always works.** Back on any show screen goes to the live table, and the screen says so. The menu has **End the night**, and an empty night ends by itself after 10 minutes.
 - **The table locks on a slow TV.** It used to need three matching looks inside 2 seconds, which a slow TV could miss for ever.
 - **The iPad keeps every pot** when the camera's picture arrives in bursts.
