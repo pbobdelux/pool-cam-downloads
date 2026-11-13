@@ -4,7 +4,7 @@ Real pool, called like a sports video game. A camera above your table, the Pool 
 
 ## Get the TV app
 
-**Download:** [poolcam.apk](https://github.com/pbobdelux/pool-cam-downloads/raw/main/poolcam.apk) (version 0.5.0, build 529)
+**Download:** [poolcam.apk](https://github.com/pbobdelux/pool-cam-downloads/raw/main/poolcam.apk) (version 0.5.0, build 532)
 
 In the **Downloader** app on your TV, type this link (all lowercase):
 
@@ -39,7 +39,7 @@ Works on Fire OS 7 and 8 (Settings → My Fire TV → About). It does not work o
 4. **Check the table on your phone.** If the six dots sit on the pockets, tap **Looks right**. If not, tap **Fix them**, tap the six pockets on the picture and save.
 5. **You're on the main menu:** Quick game, Tournament, Players.
 
-After that the TV looks after itself: it comes back by itself when the camera or the Wi-Fi drops.
+That's it, for good. The TV keeps your table and your camera through restarts and updates, and comes back by itself when the camera or the Wi-Fi drops.
 
 ## Playing
 
@@ -49,8 +49,9 @@ After that the TV looks after itself: it comes back by itself when the camera or
 - **Live voice (optional):** with your ElevenLabs key, the announcers say players' names and scores live. Enter it from the Pool Cam iPhone or iPad app, or from the phone that set up the camera: **Settings › Live voice**.
 - **Sound:** on the TV, **Options › Sound** has **On**, **Calls only** and **Off**. The TV's tuning lives under **Options › Advanced**.
 
-## New in build 529
+## New in build 532
 
+- **Set up once.** After you check or set the table, it stays: through restarts, power cuts and updates, and the TV never swaps it or asks again. To change it: on your phone, **Settings › My table › Set up this table again**.
 - **Your phone leads.** The TV shows only the code; setup, the table and every game start on the phone.
 - **Set the table on your phone**, with six taps if the TV can't find the pockets itself.
 - **The phone and the iPhone/iPad app open on the main menu**, with a **Connect TV** bubble in the corner.
