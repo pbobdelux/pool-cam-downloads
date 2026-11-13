@@ -4,7 +4,7 @@ Real pool, called like a sports video game. A camera above your table, the Pool 
 
 ## Get the TV app
 
-**Download:** [poolcam.apk](https://github.com/pbobdelux/pool-cam-downloads/raw/main/poolcam.apk) (version 0.5.0, build 537)
+**Download:** [poolcam.apk](https://github.com/pbobdelux/pool-cam-downloads/raw/main/poolcam.apk) (version 0.5.0, build 554)
 
 In the **Downloader** app on your TV, type this link (all lowercase):
 
@@ -31,7 +31,7 @@ Works on Fire OS 7 and 8 (Settings → My Fire TV → About). It does not work o
 
 ## Set it up once
 
-1. **Open Pool Cam on the TV.** It shows one big code and **Scan with the Pool Cam app**.
+1. **Open Pool Cam on the TV.** It shows the Pool Cam logo, one big code and **Connect to the TV using the Pool Cam app**.
 2. **Scan it with your phone.** Use the Pool Cam iPhone or iPad app, or just your phone's camera. Your phone takes over from here; there is nothing to type on the TV.
 3. **Link the camera** (a Tapo C120). In the Tapo app first, one time:
    - Camera → ⚙ Settings → Advanced Settings → **Camera Account**: make a username and password. **Capital letters count:** type them in Pool Cam exactly as the Tapo app shows them.
@@ -49,27 +49,24 @@ That's it, for good. The TV keeps your table and your camera through restarts an
 - **Live voice (optional):** with your ElevenLabs key, the announcers say players' names and scores live. Enter it from the Pool Cam iPhone or iPad app, or from the phone that set up the camera: **Settings › Live voice**.
 - **Sound:** on the TV, **Options › Sound** has **On**, **Calls only** and **Off**. The TV's tuning lives under **Options › Advanced**.
 
-## New in build 537
+## New in build 554
+
+- **The TV's code screen is just the logo, the code and one line:** "Connect to the TV using the Pool Cam app". It's up from the moment the camera connects, with nothing drawn over it.
+- **Connect TV, top right**, on the phone page and in the iPhone/iPad app: a red dot means no TV, green means connected. One tap opens the scanner. The app also has a **Cast** button beside it, and nothing pops up about connecting unless you tap one.
+- **The sound effects are real now**, all but one.
+- **The referee speaks his review**, and the announcer lines that kept failing their recording check are voiced.
+
+From build 537:
 
 - **The winner card shows the real score.** It used to read 0-0.
-- **A cleaner TV.** After the camera connects it says only **Connected ✓**, and a notice about the camera no longer covers the show's titles.
 - **"Quick game" has one name everywhere**, and New night says what it does: "Clear tonight's results and start fresh".
 - **On the phone**, messages never cover a button, and the table's picture is as wide as the screen.
 - **The number clips are in**, in Skye's voice so far.
 
-From build 532:
-
-- **Set up once.** After you check or set the table, it stays: through restarts, power cuts and updates, and the TV never swaps it or asks again. To change it: on your phone, **Settings › My table › Set up this table again**.
-- **Your phone leads.** The TV shows only the code; setup, the table and every game start on the phone.
-- **Set the table on your phone**, with six taps if the TV can't find the pockets itself.
-- **The phone and the iPhone/iPad app open on the main menu**, with a **Connect TV** bubble in the corner.
-- **The announcers:** the new cast, performed; names are cut in more cleanly, a whisper sits under a talking voice, and with live voice on, every line with a name or a score is asked for in time.
-- **The TV's tuning and numbers moved to Options › Advanced.**
-
 ## Still to come
 
 - Music: every music cue is still a quiet placeholder.
-- 58 of the 141 sound effects are still placeholders.
+- Names the announcers don't know yet: the next build makes them on the TV (with your ElevenLabs key) and carries more names and initials like AJ and TJ.
 - The code works on the TV's own Wi-Fi only.
 
 ## No Pool Cam TV app?
