@@ -4,7 +4,7 @@ Real pool, called like a sports video game. A camera above your table, the Pool 
 
 ## Get the TV app
 
-**Download:** [poolcam.apk](https://github.com/pbobdelux/pool-cam-downloads/raw/main/poolcam.apk) (version 0.5.0, build 532)
+**Download:** [poolcam.apk](https://github.com/pbobdelux/pool-cam-downloads/raw/main/poolcam.apk) (version 0.5.0, build 537)
 
 In the **Downloader** app on your TV, type this link (all lowercase):
 
@@ -49,7 +49,15 @@ That's it, for good. The TV keeps your table and your camera through restarts an
 - **Live voice (optional):** with your ElevenLabs key, the announcers say players' names and scores live. Enter it from the Pool Cam iPhone or iPad app, or from the phone that set up the camera: **Settings › Live voice**.
 - **Sound:** on the TV, **Options › Sound** has **On**, **Calls only** and **Off**. The TV's tuning lives under **Options › Advanced**.
 
-## New in build 532
+## New in build 537
+
+- **The winner card shows the real score.** It used to read 0-0.
+- **A cleaner TV.** After the camera connects it says only **Connected ✓**, and a notice about the camera no longer covers the show's titles.
+- **"Quick game" has one name everywhere**, and New night says what it does: "Clear tonight's results and start fresh".
+- **On the phone**, messages never cover a button, and the table's picture is as wide as the screen.
+- **The number clips are in**, in Skye's voice so far.
+
+From build 532:
 
 - **Set up once.** After you check or set the table, it stays: through restarts, power cuts and updates, and the TV never swaps it or asks again. To change it: on your phone, **Settings › My table › Set up this table again**.
 - **Your phone leads.** The TV shows only the code; setup, the table and every game start on the phone.
