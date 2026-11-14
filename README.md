@@ -4,7 +4,7 @@ Real pool, called like a sports video game. A camera above your table, the Pool 
 
 ## Get the TV app
 
-**Download:** [poolcam.apk](https://github.com/pbobdelux/pool-cam-downloads/raw/main/poolcam.apk) (version 0.5.0, build 558)
+**Download:** [poolcam.apk](https://github.com/pbobdelux/pool-cam-downloads/raw/main/poolcam.apk) (version 0.5.0, build 559)
 
 In the **Downloader** app on your TV, type this link (all lowercase):
 
@@ -52,7 +52,13 @@ That's it, for good. The TV keeps your table and your camera through restarts an
 - **Live voice (optional):** with your ElevenLabs key, the announcers say players' names and scores live, and a name they don't know yet is made in their voices the first time it's picked (about 10 seconds, then it's kept on the TV). If a game starts before it's ready, the TV says **Getting the announcers ready** for a few seconds. Enter the key from the Pool Cam iPhone or iPad app, or from the phone that set up the camera: **Settings › Live voice**. Without a key, nothing waits and the show plays as usual.
 - **Sound:** on the TV, **Options › Sound** has **On**, **Calls only** and **Off**. The TV's tuning lives under **Options › Advanced**.
 
-## New in build 558
+## New in build 559
+
+- **Setting up the table just works.** Right after the camera is linked, your phone goes straight to the table step, using the picture on the TV. If the picture is still coming, it says **Getting the picture from the camera…** and opens by itself.
+- **No more "Almost there" while Pool Cam is open.** While the TV gets the show ready after it starts, your phone says **Getting the show ready** and moves on by itself. The TV also restarts its show by itself if it ever gets stuck.
+- **The announcers say the numbers:** Hollis, Roz and Monty now say ball numbers and counts in their own voices. Scores like "three to two" come next.
+
+From build 558:
 
 - **The TV is one clean card:** the logo (or your bar's), the code and **Connect with Pool Cam App**. No camera screens, steps, numbers or buttons, ever. Camera setup happens on your phone.
 - **Your bar's logo** on the TV, set from your phone.
@@ -76,7 +82,7 @@ From build 537:
 ## Still to come
 
 - Music: every music cue is still a quiet placeholder.
-- Numbers in Hollis's, Roz's and Monty's lines: the next build.
+- The TV takes a while to get the show ready after it starts (a minute or more); the next builds make that seconds.
 - A download with about 1,200 more announcer lines.
 - The code works on the TV's own Wi-Fi only.
 

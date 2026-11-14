@@ -1,6 +1,6 @@
-Built from 12bd7a3c2e8e23d560827775c1a8dac542ed776f (main) on 2026-11-13T23:10Z
-App: Pool Cam (com.pbobdelux.poolcam), version 0.5.0 (558)
-APK SHA-256: ddb8ac1add289b98cfa2c36d6901012fab8c1f8807b06872c8ba54ab5cd6dd2d
+Built from 34098845f389323dd366b18f43c6b9f9651091d1 (main) on 2026-11-14T01:54Z
+App: Pool Cam (com.pbobdelux.poolcam), version 0.5.0 (559)
+APK SHA-256: 02c8c37d4fc09ae4b070f26dba439df29bab222f03a1cda0ec02cccec39bdb53
 Signing key: sideload
 Signing certificate SHA-256: 290e875c2fe46278b5bd0e46e7b783c91d1f2bd828da80263ec66b46b43fd230
-Core pack: core 2026.10.0 (main), 3302 files, 25.8 MB, 43 of 141 sounds still placeholders, pack.json SHA-256 32b2d2b72b8a45cfca693c671cee795b0ba7e1557666884ed783017b6865df53
+Core pack: core 2026.10.0 (main), 3416 files, 26.3 MB, 43 of 141 sounds still placeholders, pack.json SHA-256 47e9b656c5e1b3e47355b7e1af0a6c0bc277bee64ab052ebc9770aaad9f1c951
